@@ -6,5 +6,29 @@
     "subtitle": "Play music from Spotify on Echo",
     "iconUrl": "https://files.catbox.moe/212opw.png",
     "updateUrl": "https://api.github.com/repos/brahmkshatriya/echo-spotify-extension/releases"
+  },
+  {
+    "id": "deezer",
+    "type": "music",
+    "name": "Deezer",
+    "subtitle": "Play music from Deezer on Echo",
+    "iconUrl": "https://e-cdn-files.dzcdn.net/cache/images/common/favicon/favicon-240x240.bb3a6a29ad16a77f10cb.png",
+    "updateUrl": "https://api.github.com/repos/LuftVerbot/echo-deezer-extension/releases"
+  },
+  {
+    "id": "youtube-music",
+    "type": "music",
+    "name": "Youtube Music",
+    "subtitle": "Play music from Youtube on Echo",
+    "iconUrl": "https://music.youtube.com/img/favicon_144.png",
+    "updateUrl": "https://api.github.com/repos/brahmkshatriya/echo-youtube-extension/releases"
+  },
+  {
+    "id": "musixmatch_lyrics",
+    "type": "lyrics",
+    "name": "Musixmatch",
+    "subtitle": "View lyrics with Musixmatch on Echo",
+    "iconUrl": "https://files.catbox.moe/heyxop.jpg",
+    "updateUrl": "https://api.github.com/repos/shub39/echo-musixmatch-extension/releases"
   }
-  ]
+]
