@@ -23,12 +23,12 @@
     "updateUrl": "https://api.github.com/repos/LuftVerbot/echo-deezer-extension/releases"
   },
   {
-    "id": "youtube-music",
+    "id": "youtube_music",
     "type": "music",
     "name": "Youtube Music",
-    "subtitle": "Reproducir tu música de Youtube",
+    "subtitle": "Play music from Youtube on Echo",
     "iconUrl": "https://music.youtube.com/img/favicon_144.png",
-    "updateUrl": "https://api.github.com/repos/brahmkshatriya/echo-youtube-extension/releases"
+    "updateUrl": "https://api.github.com/repos/Abhishek890/echo-youtube-extension/releases"
   },
   {
     "id": "musixmatch_lyrics",
